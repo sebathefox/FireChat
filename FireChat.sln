@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireChat.Server", "FireChat.Server\FireChat.Server.csproj", "{092961A9-40EE-4FE4-8996-407607062113}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireChat.Library", "FireChat.Library\FireChat.Library.csproj", "{0A5F74C4-5063-4A23-B7E9-4AA3E6B987F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireChat.ConsoleClient", "FireChat.ConsoleClient\FireChat.ConsoleClient.csproj", "{A04E28C0-191A-4AD0-9571-8562246D0BFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{092961A9-40EE-4FE4-8996-407607062113}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{092961A9-40EE-4FE4-8996-407607062113}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{092961A9-40EE-4FE4-8996-407607062113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A5F74C4-5063-4A23-B7E9-4AA3E6B987F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5F74C4-5063-4A23-B7E9-4AA3E6B987F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5F74C4-5063-4A23-B7E9-4AA3E6B987F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5F74C4-5063-4A23-B7E9-4AA3E6B987F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A04E28C0-191A-4AD0-9571-8562246D0BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04E28C0-191A-4AD0-9571-8562246D0BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04E28C0-191A-4AD0-9571-8562246D0BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04E28C0-191A-4AD0-9571-8562246D0BFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
